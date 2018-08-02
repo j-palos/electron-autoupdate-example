@@ -25,4 +25,4 @@ yarn-error.log*
 package-lock.json
 yarn.lock
 
-electron-builder.yml
+electron-builder.yaml
